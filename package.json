@@ -23,7 +23,7 @@
     "next-seo": "^5.5.0",
     "next-themes": "^0.2.0",
     "nextra": "2.0.0-alpha.56",
-    "nextra-theme-docs": "2.0.0-alpha.59",
+    "nextra-theme-docs": "2.0.0-beta.18",
     "postcss-nesting": "^10.1.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
