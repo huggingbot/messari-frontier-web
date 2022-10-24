@@ -4395,10 +4395,10 @@ nextra-theme-docs@2.0.0-beta.29:
     parse-git-url "^1.0.1"
     scroll-into-view-if-needed "^2.2.29"
 
-nextra@2.0.0-beta.29:
-  version "2.0.0-beta.29"
-  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.0.0-beta.29.tgz#128383f84e8bcf8826a2f2ad594db945268fcb0e"
-  integrity sha512-UjsaoMNsJRG0fbzqgoLDXgvJwcSJxwPr+ojBBjJsaZ6fu5+cwbCx8wXazA0y5sSxGw75fG6D1I7rS6pflHctuQ==
+nextra@2.0.0-beta.36:
+  version "2.0.0-beta.36"
+  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.0.0-beta.36.tgz#cf755780cfe9abf9427237f78426d4f9cd8fdcdf"
+  integrity sha512-j6XBAfOqcmzH5r7i4I6d5O2D06oGJ9qz4RcVlgST8giTatlXo4j2ekFDbReF4P0+WEXfb4G6lFpxINf3nbhkAw==
   dependencies:
     "@mdx-js/mdx" "^2.1.3"
     "@napi-rs/simple-git" "^0.1.8"
